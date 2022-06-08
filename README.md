@@ -10,6 +10,3 @@ In addition, Keras provides multiple coding paradigms and API patterns for some 
 And some are not comprehensively documented!
 (E.g. string shorthands for activation functions, kernel initializers, losses, etc.)
 
----------
-
-<a id="API">1</a>: API Stands for *Application Programming Interfaces*. Here we refer to all the functions, classes, etc., provided by libraries like Keras & TensorFlow.
